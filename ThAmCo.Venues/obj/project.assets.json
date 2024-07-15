@@ -1304,24 +1304,32 @@
     ]
   },
   "packageFolders": {
-    "/home/centremetre/.nuget/packages/": {}
+    "C:\\Users\\c2645410\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/centremetre/University/Year 2/WebApps/ThAmCo/ThAmCo.Venues/ThAmCo.Venues.csproj",
+      "projectUniqueName": "C:\\Users\\c2645410\\Source\\repos\\ThAmCo.Venues\\ThAmCo.Venues.csproj",
       "projectName": "ThAmCo.Venues",
-      "projectPath": "/home/centremetre/University/Year 2/WebApps/ThAmCo/ThAmCo.Venues/ThAmCo.Venues.csproj",
-      "packagesPath": "/home/centremetre/.nuget/packages/",
-      "outputPath": "/home/centremetre/University/Year 2/WebApps/ThAmCo/ThAmCo.Venues/obj/",
+      "projectPath": "C:\\Users\\c2645410\\Source\\repos\\ThAmCo.Venues\\ThAmCo.Venues.csproj",
+      "packagesPath": "C:\\Users\\c2645410\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\c2645410\\Source\\repos\\ThAmCo.Venues\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "/home/centremetre/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\c2645410\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -1334,6 +1342,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -1374,7 +1387,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/home/centremetre/.dotnet/sdk/6.0.418/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300\\RuntimeIdentifierGraph.json"
       }
     }
   }
