@@ -1727,11 +1727,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\c2645410\\Source\\repos\\ThAmCo.Catering\\ThAmCo.Catering.csproj",
+      "projectUniqueName": "C:\\Users\\c2645410\\Source\\Repos\\WebAppsLate\\ThAmCo.Catering\\ThAmCo.Catering.csproj",
       "projectName": "ThAmCo.Catering",
-      "projectPath": "C:\\Users\\c2645410\\Source\\repos\\ThAmCo.Catering\\ThAmCo.Catering.csproj",
+      "projectPath": "C:\\Users\\c2645410\\Source\\Repos\\WebAppsLate\\ThAmCo.Catering\\ThAmCo.Catering.csproj",
       "packagesPath": "C:\\Users\\c2645410\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\c2645410\\Source\\repos\\ThAmCo.Catering\\obj\\",
+      "outputPath": "C:\\Users\\c2645410\\Source\\Repos\\WebAppsLate\\ThAmCo.Catering\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

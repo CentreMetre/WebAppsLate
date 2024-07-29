@@ -1310,11 +1310,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\c2645410\\Source\\repos\\ThAmCo.Events\\ThAmCo.Events.csproj",
+      "projectUniqueName": "C:\\Users\\c2645410\\Source\\Repos\\WebAppsLate\\ThAmCo.Events\\ThAmCo.Events.csproj",
       "projectName": "ThAmCo.Events",
-      "projectPath": "C:\\Users\\c2645410\\Source\\repos\\ThAmCo.Events\\ThAmCo.Events.csproj",
+      "projectPath": "C:\\Users\\c2645410\\Source\\Repos\\WebAppsLate\\ThAmCo.Events\\ThAmCo.Events.csproj",
       "packagesPath": "C:\\Users\\c2645410\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\c2645410\\Source\\repos\\ThAmCo.Events\\obj\\",
+      "outputPath": "C:\\Users\\c2645410\\Source\\Repos\\WebAppsLate\\ThAmCo.Events\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

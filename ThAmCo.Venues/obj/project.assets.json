@@ -1310,11 +1310,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\c2645410\\Source\\repos\\ThAmCo.Venues\\ThAmCo.Venues.csproj",
+      "projectUniqueName": "C:\\Users\\c2645410\\Source\\Repos\\WebAppsLate\\ThAmCo.Venues\\ThAmCo.Venues.csproj",
       "projectName": "ThAmCo.Venues",
-      "projectPath": "C:\\Users\\c2645410\\Source\\repos\\ThAmCo.Venues\\ThAmCo.Venues.csproj",
+      "projectPath": "C:\\Users\\c2645410\\Source\\Repos\\WebAppsLate\\ThAmCo.Venues\\ThAmCo.Venues.csproj",
       "packagesPath": "C:\\Users\\c2645410\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\c2645410\\Source\\repos\\ThAmCo.Venues\\obj\\",
+      "outputPath": "C:\\Users\\c2645410\\Source\\Repos\\WebAppsLate\\ThAmCo.Venues\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

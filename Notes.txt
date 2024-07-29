@@ -1,3 +1,5 @@
 Startup prject is Catering
 There is a case study on blackboard
 Submission date is 02/08, can be extended ;), final deadline if failed is  4 weeks after year 3 starts
+
+if certs get corrupted, follow https://stackoverflow.com/questions/63796566/neterr-cert-authority-invalid-in-asp-net-core

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IfIjLA+Wxqo=",
+  "dgSpecHash": "Ac5+bLj1fyM=",
   "success": true,
-  "projectFilePath": "C:\\Users\\c2645410\\Source\\repos\\ThAmCo.Events\\ThAmCo.Events.csproj",
+  "projectFilePath": "C:\\Users\\c2645410\\Source\\Repos\\WebAppsLate\\ThAmCo.Events\\ThAmCo.Events.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\c2645410\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\c2645410\\.nuget\\packages\\microsoft.data.sqlite.core\\6.0.22\\microsoft.data.sqlite.core.6.0.22.nupkg.sha512",
